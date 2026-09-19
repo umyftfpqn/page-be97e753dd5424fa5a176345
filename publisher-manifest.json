@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "1cce6d99ca52ea0624620575",
+  "owner": "umyftfpqn",
+  "repo": "page-be97e753dd5424fa5a176345",
+  "title": "ClashX官方下载",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "be97e753dd5424fa5a176345",
+      "a": "SaySS",
+      "b": "ClashX官方下载",
+      "entity": "SaySS",
+      "brand": "ClashX官方下载",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "fea0bb772a06e2a2642d035b2cc464c91b993dfe562ad0887a7c7bcfccf3ab8d",
+      "content": {
+        "primary_entity": "SaySS",
+        "keyword1": "SaySS",
+        "keyword2": "ClashX官方下载",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择合适客户端，再导入订阅配置。",
+          "AI_CLIENTS_TITLE": "客户端按设备匹配",
+          "AI_CLOSING_TEXT": "按使用设备与流量需求挑选套餐，导入订阅即可开始体验。",
+          "AI_CLOSING_TITLE": "选择合适的套餐",
+          "AI_DESCRIPTION": "，围绕日常访问、流媒体播放与游戏加速场景，提供基础版、旗舰版与团队版等套餐层级。基础版每月 100GB 流量可满足轻度使用，旗舰版每月 300GB 搭配 IPLC 专线适合游戏玩家，团队版每月 1000GB 面向多设备协作。客户端覆盖常见桌面与移动系统，订阅配置流程简单。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路类型三个方向挑选套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按每月用量挑选。",
+          "AI_FEATURE_TITLE_1": "月流量档位",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版可 20 台同时在线。",
+          "AI_FEATURE_TITLE_2": "设备在线数量",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线，适合游戏加速与稳定低延迟需求。",
+          "AI_FEATURE_TITLE_3": "专线加速选项",
+          "AI_GUIDE_INTRO": "按照套餐匹配、设备适配、订阅导入的顺序完成配置。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "SaySS 提供基础版、旗舰版与团队版三档海外加速服务，流量从每月 100GB 到 1000GB，设备数从 3 台到 20 台，旗舰版搭载 IPLC 专线，适合流媒体、游戏与多设备使用。",
+          "AI_HERO_SUBTITLE": "多档套餐灵活选择",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB 适合轻度使用",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备在线",
+          "AI_PLANS_INTRO": "基础版适合个人轻度使用，旗舰版适合游戏与流媒体，团队版适合多设备协作。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量、同时在线设备数和是否需要专线加速选择套餐。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端要求，确保订阅协议与客户端匹配。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "依照客户端文档导入订阅地址，完成节点配置后启用。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "SaySS 海外加速",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个账号可以同时在几台设备登录？",
+          "AI_FAQ_ANSWER_1": "基础版允许 3 台设备同时在线，旗舰版 5 台，团队版 20 台。超出数量时，可在客户端退出其他设备后再连接。",
+          "AI_FAQ_QUESTION_2": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_2": "两个周期内容一致，年付价格更低。基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，适合长期使用。",
+          "AI_FAQ_QUESTION_3": "流量用完后会怎样？",
+          "AI_FAQ_ANSWER_3": "每月流量按套餐额度提供，基础版 100GB、旗舰版 300GB、团队版 1000GB。当月用尽后，可升级套餐或等待下月重置。",
+          "AI_FAQ_QUESTION_4": "订阅如何在客户端导入？",
+          "AI_FAQ_ANSWER_4": "在所选客户端中找到订阅或配置导入入口，粘贴订阅地址并保存，然后选择节点连接。不同客户端步骤略有差异，可参照对应文档。",
+          "AI_FAQ_QUESTION_5": "可以在哪些系统上使用？",
+          "AI_FAQ_ANSWER_5": "常见桌面与移动系统均有对应客户端，按所用设备安装适配版本即可。使用前建议核对系统版本是否满足客户端要求。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "df86b60dde4a43472063c78a3e0340e065703e48ea7162cc51695b460a9cde30",
+    "sitemap.xml": "75488a40957340f2cedb612403b90608d909ee68773cbc5128b5f26157fc995e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "bc3383ece40158f7246e476a19c68566fa78dca464f4c5298085fd3ea4feecd7"
+}
